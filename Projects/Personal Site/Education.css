@@ -1,0 +1,26 @@
+h1{font-family:"Georgia", serif;}
+h1{color: #663300}
+h2{color: #663300}
+h3{color: #663300}
+h4{color: #663300}
+h5{color: #990033}
+p{font-family:"Georgia", serif;}
+
+h1 { text-align:center;
+	border: 5px dashed #663300;
+		margin: 25px 50px;
+		padding: 50px 100px;
+		background: white;
+		}
+body { 
+	margin: 75px 100px;
+	padding: 25px 50px;
+	}
+	
+	h1 { margin-top: 5px;}
+	h2{margin-bottom: 5px;}
+
+	li
+	{
+	display:inline;
+	}

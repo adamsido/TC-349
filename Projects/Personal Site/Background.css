@@ -1,0 +1,17 @@
+h1{font-family:"Georgia", serif;}
+h1{color: #993333}
+h2{color: #993333}
+h3{color: #993333}
+h5{color: #FF6633}
+p{font-family:"Arial", sans-serif;}
+body{background-color: #FFFFCC}
+p{color: #600000}
+
+body { border: 5px solid white;
+	margin: 50px 100px;
+	padding: 25px 50px;
+}
+li
+{
+display:inline;
+}

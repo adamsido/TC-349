@@ -1,0 +1,11 @@
+h1{font-family:"Courier New", Monospace;}
+h1{color: 	#F0F0F0}
+h2{color: 	#F0F0F0}
+body{background-color: #33CCCC}
+
+h1 {border: 5px solid #F0F0F0;
+	margin: 50px 100px;
+	padding: 25px 50px 25px 50px;
+	text-align:center;
+}
+

@@ -1,0 +1,22 @@
+h1{color: #993333}
+h2{color: #993333}
+h5{color: #993300}
+body{background-color: #CC6666}
+
+
+h1,h2 {text-align:center;}
+
+body {
+	border: 10px dotted #993300;
+		margin: 50px 100px;
+		padding: 25px 50px 25px 50px;
+}
+
+p {
+	text-align:center;
+}
+
+li
+{
+display:inline;
+}
