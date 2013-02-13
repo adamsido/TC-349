@@ -1,0 +1,5 @@
+Etsy Critique 
+
+     Etsy is displayed with nice colors and structure. The HTML source is not as neat and tidy but a little bit nicely structured. It has very good javascript included. The page source of the site includes many links, a lot of divisions (div), meta, link, script, ul, and is also created into different sections including the head and body all included in the page source. 
+
+     The site's CSS style sheet and javascript are both included in a separate file and linked to the html file. There is a lot of in line scripting, I like how the site is separated into different chunks which also makes it easier to navigate and use. Very well done and built site. 
