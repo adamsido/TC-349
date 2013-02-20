@@ -1,0 +1,5 @@
+Chartbeat
+
+The Chartbeat site is built in a simple nice structure. The HTML source is very neat and tidy and well organized. It has very good javascript included. The page source of the site includes many links, a lot of divisions (div),link, script, and also includes a little bit of meta and section. 
+
+The site's CSS style sheet and javascript are both included in a separate file and linked to the html file. There is a lot of in line scripting, I like how the site is separated into different sections neatly and makes it easy to navigate through the site. Neatly built and structured site.
