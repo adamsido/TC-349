@@ -1,11 +1,31 @@
 h1{font-family:"Courier New", Monospace;}
-h1{color: 	#F0F0F0}
-h2{color: 	#F0F0F0}
+h1{color: 	black}
+h2{color: 	black}
 body{background-color: #33CCCC}
 
 h1 {border: 5px solid #F0F0F0;
 	margin: 50px 100px;
 	padding: 25px 50px 25px 50px;
 	text-align:center;
+	background: white;
+	opacity: .5;
 }
+
+
+.wrap { 
+    margin: 0  20%;
+   
+}
+
+ article {
+ 	 width: 300px;
+ 	 padding: 20px;
+ 	 margin: 30px;
+ 	 float: left;
+ 	 background: #f3f3f3;
+ 	 opacity: .5;
+ 	 
+}
+
+  
 

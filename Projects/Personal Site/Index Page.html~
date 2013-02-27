@@ -6,13 +6,10 @@
 </head>
 	
 <body>
-<div class="wrap">
 <link rel="stylesheet" type="text/css" href="Index Page.css">
-
-<section>
 <h1> INDEX </h1>
 
- <article>
+ 
 <h2> 
 <ol>
 
@@ -21,13 +18,13 @@
 	<li><a href="Hobbies.html">Hobbies</a></li> 
 
 	<li><a href="Background.html">Background</a></li>
-</article>
+
 
 </ol>
 
 </h2>
-</section>
-</div>	
+
+	
 </body>
 
 </html>

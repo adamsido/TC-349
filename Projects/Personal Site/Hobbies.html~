@@ -7,15 +7,10 @@
 	
 <body>
 <link rel="stylesheet" type="text/css" href="Hobbies.css">
-<div class="wrap">
-
 <h1> Hobbies </h1>
-
 <p> I am a very outgoing an active person that loves to have fun. I am also very creative in certain aspects of fashion and entertainment. 
- <section>
-<article>
  
- <h2>Music</h2>
+<h2>Music</h2>
 <div id="navmenu">
 <ul>
 <li>I love to write songs</li>
@@ -23,9 +18,8 @@
 </ul>
 </div>
 <img src="img/sing.jpg" alt="MSU">
-</article> 
 
-<article>
+
 <h2>Dance</h2>
 <ul>
 <li>I love to dance to hip hop music</li>
@@ -33,7 +27,6 @@
 	</ul>
 
 <img src="img/dance.jpg" alt="MSU">
-</article>
 
 <h5>
 	Other Pages:
@@ -44,9 +37,6 @@
 
 	<li><a href="Background.html">Background</a></li>
 	</h5>
-
-</section>	
-</div>
 </body>
 
 </html>

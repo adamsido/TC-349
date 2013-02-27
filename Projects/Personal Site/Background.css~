@@ -15,26 +15,3 @@ li
 {
 display:inline;
 }
-
-.wrap { 
-    margin: 0 auto;
-    width: 800px;
-   
-}
- section {
- 	 width: 500px;
- 	 margin-right: 25px;
- 	 float: left;
- }
- 
-
- 
- h5 {
- 	 clear: both;
- 	 
- }
- 
-  aside {
- 	 width: 300px;
- 	 float: left;
- }

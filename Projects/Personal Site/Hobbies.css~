@@ -14,34 +14,9 @@ body {
 
 p {
 	text-align:center;
-	
 }
 
 li
 {
 display:inline;
 }
-
-.wrap { 
-    margin: 0  3%;
-   
-}
-
- article {
- 	 width: 220px;
- 	 padding: 10px;
- 	 margin: 10px;
- 	 float: left;
- 	 background: #f3f3f3;
- 	 opacity: .9;
- 	 
-}
-
-h5 { 
- 	 clear: both;
- }
- 
- img {
- 	 width:220px;
- 	 
- }

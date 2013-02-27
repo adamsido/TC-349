@@ -7,31 +7,24 @@
 	
 <body>
 <link rel="stylesheet" type="text/css" href="Background.css">
-<div class="wrap">
-
+<h1> Background </h1>
 <p>
 	<img src="img/lagos.jpg" alt="MSU"> 
 	
-	</p>
-
-<section>	
-<h1> Background </h1>	
-
+	<p>
+	
 <p>	I was born in Bronx, New York, and Raised in Lagos Nigeria. I lived in Nigeria for 15 years before moving back to the United States to finish my last year of high school and pursue my Bachelor's degree at Michigan State University. 
  
 </p>
-</section>
 
-<aside>
 <h2>Family</h2>
 <p> I am the last child out of seven of seven children, I have four brothers and two sisters.  
-</aside>
 
-<aside>
+
+
 <h3>Life in Nigeria</h3>
 <p> Nigeria is a very fun place to be, I went to the best private schools for my elementary, junior and senior high. I am from Lagos, one of the highest populated cities in Africa. </p>
-</aside>
-
+	
 <h5>
 	Other Pages:
 	<li><a href="Index Page.html">Index</a></li> 
@@ -42,7 +35,6 @@
 	
 	</h5>
 	
-</div>
 </body>
 
 </html>
