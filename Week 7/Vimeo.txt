@@ -1,0 +1,7 @@
+VIMEO
+
+Vimeo is very comic and colorful. The site's structure is very well done. The html is very well written in an organized manner. It's java script and css are all linked externally. In the html the site has a lot of li, div, and nav. It also uses section, script, span. 
+
+Some class types used to code this site are "width_wrap", "arrow_wright", "selected", "grid cleafix", "feature_botom" etc. it also uses id like "home_slideshow", "plus", "content" etc. All these are recognized in the coding of the html. 
+
+Vimeo is a well built site, nice use of colors, backgrounds, font, and section. The way the html is coded and set up is well done and all css and java script styles are nicely done. 
