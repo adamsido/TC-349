@@ -1,0 +1,48 @@
+h1{color: yellow;}
+h2{color: black;}
+
+body{background: url(images/background.jpg);
+}
+
+
+h1,h2 {text-align:center;}
+
+body {
+	
+		margin: 50px 100px;
+		padding: 25px 50px 25px 50px;
+}
+
+p {
+	text-align:center;
+	
+}
+
+li
+{
+display:inline;
+}
+
+.wrap { 
+    margin: 0  3%;
+   
+}
+
+ article {
+ 	 width: 1500px;
+ 	 height: 1500px;
+ 	 padding: 10px;
+ 	 margin: 25px;
+ 	 float: left;
+ 	 background: #f3f3f3;
+ 	 opacity: .9;
+ 	
+ 	 
+}
+
+
+ img {
+ 	 width:300px;
+ 	 height: 300px;
+ 	 
+ }
