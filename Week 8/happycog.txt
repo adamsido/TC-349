@@ -1,0 +1,5 @@
+Happy Cog 
+
+This site is very well organized, the structure of the html code and site is very well done. The site's stylesheet and javascript are both linked externally. It uses a lot of script, div, meta, li functions. The site also makes use of section, classes like page, casual case-left, ribbon-wrap and so much more.
+
+I really find this site interesting because of the navigation. I love how everything you need is all in one page. Once you click on a tab it navigates you directly to the section on the same page. The navigation is very well done and functions very well. The site also makes use of article function and uses it very well. I love the fact that it is simple and the structure and design of the site is very easy to understand, there is not a lot going on but there is enough content on the site. Very well built and coded site. 

@@ -1,0 +1,5 @@
+http://jasonsantamaria.com
+
+I find the specific design on this site is very nice. The site is designed into chunks that separates the dates, media and sections. As my first ever design critique, I can notice that this site does not consist of too many colors, but it is well structured and straightforward. Looking at the page source of this site, it includes many links, a lot of divisions (div). 
+
+It is also created into different sections including the head, style, body, and footer, all included in the page source. The bottom of the site is very creative and colorful and the css format is definitely different from the format above. In general, the site is easy to browse and is well structured.
