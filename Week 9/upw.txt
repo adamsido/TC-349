@@ -1,0 +1,5 @@
+United Pixelworkers
+
+I am a big fan of well organized websites. I love this site with it's structure and neatness of structure but the html coding to me is kind of all over the place. The site's css and javascript are linked externally. The site makes good use of script, different classes, div and alt. 
+
+I really love the way the site is structured regardless of how overpacked the items are displayed on the page. i love the colors, very interesting and lively, great color combination. Great use of li, and div. The layout is done very well, images are placed well and overall the site is well built but the html coding can be much more neater. 
