@@ -1,12 +1,19 @@
 h1{color: #fff}
 h2{color: #993333}
+h3{color: #fff}
 h5{color: #993300}
 body{background: url(images/background.jpg);
 }
 
 
-h1,h2 {text-align:center;}
+h1 {text-align:center;
+	margin-left: 100px;
 
+}
+
+h2 {
+ margin-left: 380px;
+}
 body {
 	
 		margin: 50px 100px;
@@ -15,13 +22,10 @@ body {
 
 p {
 	text-align:center;
+	color: #fff;
 	
 }
 
-li
-{
-display:inline;
-}
 
 .wrap { 
     margin: 0  3%;
@@ -29,13 +33,14 @@ display:inline;
 }
 
  article {
- 	 width: 220px;
- 	 height: 350px;
+ 	 width: 800px;
+ 	 height: 1500px;
  	 padding: 10px;
- 	 margin: 25px;
- 	 float: left;
+ 	 margin-left: 100px;
+ 	 float: center;
  	 background: #f3f3f3;
  	 opacity: .9;
+ 	 position: center;
  	 
 }
 
@@ -44,7 +49,24 @@ h5 {
  }
  
  img {
- 	 width:220px;
- 	 height: 250px;
- 	 
- }
+ 	 width:330px;
+ 	 height: 330px;
+ 	 margin-left: 260px;
+ 	
+ 
+}
+
+h3 {
+	padding: 40px;
+}
+
+video {
+	margin-left: 190px;
+	
+}
+
+.container1  {
+	position: center;
+	width:300px;
+ 	height: 300px;
+}
